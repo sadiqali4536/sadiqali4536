@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadiq Ali N. M</h1>
-<h3 align="center">Full-Stack Flutter Developer from India</h3>
+<h3 align="center">Full-Stack Flutter Developer </h3>
 
 - 🚀 I'm currently working as a **Flutter Full-Stack Developer**
 - 🔥 I specialize in building **mobile apps, backend systems, and clean UI/UX**
